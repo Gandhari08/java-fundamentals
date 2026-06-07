@@ -181,6 +181,17 @@ Procedural programing can't do Overloading, Inheritance.
                 HOW:
                     * Using inheritance
 
+Types of relations:
+
+    1. is a Relation
+        * Specifies inheritance
+        * Car is a child of class Vechile implyes Class Car extends to Vechile.
+        * Car is a vechile and inherites data and methods from vechile.
+
+    2. has a Relation
+        * When an object of a class is used in another class then they are in has a relation.
+        * Car has an object in Engine.
+        a. One to One:
 
 * */
 
